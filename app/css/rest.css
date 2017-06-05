@@ -1,0 +1,68 @@
+/*精英包月洗findex.html页面样式-------------------------------------------------------------*/
+.tipWrap{
+    margin: 2rem 0;
+}
+.tip{
+    font-size: 0.7rem;
+    color: #111;
+}
+.tip-content{
+    font-size: .6rem;
+    line-height: 1.3rem;
+}
+.index_bg{
+    margin-bottom: 2rem;
+}
+.bar-findex{
+    height: 3.375rem;
+    background: #fff;
+    /*border-top: 1px solid #ccc;*/
+    padding: 0.625rem;
+    box-sizing: border-box;
+}
+.wash-MonthlyBtn,.myorder-Btn{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #a3a3a3;
+    border-radius: 0.25rem;
+    color: #111;
+    font-size: 0.65rem;
+    font-weight: bold;
+}
+.wash-MonthlyBtn{
+    margin-right: 6%;
+}
+.findex-Content{
+    background: #fff;
+    text-align: center;
+}
+.findex-periodGoodsDetail .findex-title{
+    font-size: 0.75rem;
+    color: #111;
+    letter-spacing: 0.1rem;
+    line-height: 1.125rem;
+}
+.limit{
+    color: red;
+    font-size: 0.6rem;
+    line-height: 1.2rem;
+    /*margin-bottom: 0.5rem;*/
+}
+.findex-periodGoodsDetail div{
+    width: 20%;
+    margin: 0.5rem 40%;
+    height: 1px;
+    background: #666;
+}
+.packageMemo{
+    /*margin-top: 0.5rem;*/
+}
+.packageMemo,.goodsMemo{
+    font-size: 0.6rem;
+    color: #666;
+    line-height: 1.2rem;
+}
+.bottomImg{
+    margin: 2rem 0;
+}
